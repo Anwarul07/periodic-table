@@ -15,6 +15,30 @@
   --darkyellow:#FF9800;
   --lightyello:#FAEF5D;
   --limegreeb:#8ADAB2;
+  --litepink:#F4538A;
+  --liteblue:#98ABEE;
+  --litepr:#9F70FD;
+}
+.lpr{
+  background-color: var(--litepr);
+}
+.lb{
+background-color: var(--liteblue);
+}
+.red{
+  background-color: var(--red);
+}
+.darky{
+  background-color: var(--darkyellow);
+}
+.litey{
+  background-color: var(--lightyello);
+}
+.limeg{
+  background-color: var(--limegreeb);
+}
+.litep{
+  background-color: var(--litepink);
 }
 td{
   width: 2.5vw;
