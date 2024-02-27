@@ -17,7 +17,19 @@
   --limegreeb:#8ADAB2;
   --litepink:#F4538A;
   --liteblue:#98ABEE;
-  --litepr:#9F70FD;
+  --litepr:#9267e8e9;
+  --blue:#00A9FF;
+  --liteg:#557A46;
+  --grey:grey;
+}
+.grey{
+  background-color: var(--grey);
+}
+.liteg{
+  background-color: var(--liteg);
+}
+.blue{
+  background-color: var(--blue);
 }
 .lpr{
   background-color: var(--litepr);
